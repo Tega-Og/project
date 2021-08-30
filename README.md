@@ -1,2 +1,3 @@
 # project
-<li><a href="index.html">Home</a></li>
+
+LETS CREATE CODE MAGIC
