@@ -1,3 +1,0 @@
-# project
-
-LETS CREATE CODE MAGIC
